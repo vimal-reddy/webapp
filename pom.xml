@@ -30,6 +30,19 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+  <distributionManagement>
+    <repository>
+      <id>nexus</id>
+      <name>Releases</name>
+      <url>http://3.84.31.185:8081/repository/testrepo/</url>
+    </repository>
+    <snapshotRepository>
+      <id>nexus</id>
+      <name>Release</name>
+      <url>http://3.84.31.185:8081/repository/testrepo/</url>
+    </snapshotRepository>
+</distributionManagement>
 
   <build>
     <finalName>webapp</finalName>

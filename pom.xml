@@ -35,12 +35,12 @@
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://54.91.211.232:8081/repository/newrepo/</url>
+      <url>http://ec2-54-91-211-232.compute-1.amazonaws.com:8081/repository/newrepo/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>Release</name>
-      <url>http://54.91.211.232:8081/repository/newrepo/</url>
+      <url>http://ec2-54-91-211-232.compute-1.amazonaws.com:8081/repository/newrepo/</url>
     </snapshotRepository>
 </distributionManagement>
 

@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello JENKINS!</h2>
+<h2>Hello Declerative Pipeline!</h2>
 </body>
 </html>

@@ -35,12 +35,12 @@
     <repository>
       <id>admin</id>
       <name>admin123</name>
-      <url>http://54.174.244.105:8081/repository/newrepo/</url>
+      <url>http://ec2-54-174-244-105.compute-1.amazonaws.com:8081/repository/jenkinsnrexusrepo/</url>
     </repository>
     <snapshotRepository>
       <id>admin</id>
       <name>admin123</name>
-      <url>http://54.174.244.105:8081/repository/newrepo/</url>
+      <url>http://ec2-54-174-244-105.compute-1.amazonaws.com:8081/repository/jenkinsnrexusrepo/</url>
     </snapshotRepository>
 </distributionManagement>
 

@@ -38,7 +38,7 @@
       <url>http://54.174.244.105:8081/repository/newrepo/</url>
     </repository>
     <snapshotRepository>
-      <id>nexus</id>
+      <id>admin</id>
       <name>admin123</name>
       <url>http://54.174.244.105:8081/repository/newrepo/</url>
     </snapshotRepository>
